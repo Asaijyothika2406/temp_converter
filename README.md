@@ -1,4 +1,4 @@
-# Simple Web Project
+Temperature Converter
 
 A basic web project consisting of HTML, CSS, and JavaScript files to demonstrate front-end development concepts.
 
